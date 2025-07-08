@@ -43,4 +43,7 @@ It allows the user to:
 # Output
 ![output1](output1.png)
 ![output2](output2.png)
+![output3](output3.png)
+![output4](output4.png)
+![output5](output5.png)
 
