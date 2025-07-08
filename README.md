@@ -43,18 +43,18 @@ It allows the user to:
 # Output
 - Start the quiz
   
-![output1](output1.png)
+![output1](output/output1.png)
 
 - Enter the option to select answer
   
-![output2](output2.png)
-![output3](output3.png)
+![output2](output/output2.png)
+![output3](output/output3.png)
 
 - User-friendly input validaion
   
-![output4](output4.png)
+![output4](output/output4.png)
 
 - Final result displayed
   
-![output5](output5.png)
+![output5](output/output5.png)
 
