@@ -42,12 +42,19 @@ It allows the user to:
 
 # Output
 - Start the quiz
+  
 ![output1](output1.png)
+
 - Enter the option to select answer
+  
 ![output2](output2.png)
 ![output3](output3.png)
+
 - User-friendly input validaion
+  
 ![output4](output4.png)
-- Final result displayed 
+
+- Final result displayed
+  
 ![output5](output5.png)
 
