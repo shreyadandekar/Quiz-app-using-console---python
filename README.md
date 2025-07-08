@@ -41,6 +41,6 @@ It allows the user to:
 ---
 
 # Output
-(output1.png)
-(output2.png)
+![output1](output1.png)
+![output2](output2.png)
 
