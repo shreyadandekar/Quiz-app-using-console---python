@@ -41,5 +41,6 @@ It allows the user to:
 ---
 
 # Output
+(output1.png)
+(output2.png)
 
-![screenshot](Screenshot 01.png)
